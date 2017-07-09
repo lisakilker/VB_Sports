@@ -1,0 +1,10 @@
+c:\users\lisakilker\documents\visual studio 2012\Projects\Week4Day2Sports\Week4Day2Sports\bin\Debug\Week4Day2Sports.exe.config
+C:\Users\LisaKilker\Documents\Visual Studio 2012\Projects\Week4Day2Sports\Week4Day2Sports\bin\Debug\Week4Day2Sports.exe
+C:\Users\LisaKilker\Documents\Visual Studio 2012\Projects\Week4Day2Sports\Week4Day2Sports\bin\Debug\Week4Day2Sports.pdb
+C:\Users\LisaKilker\Documents\Visual Studio 2012\Projects\Week4Day2Sports\Week4Day2Sports\bin\Debug\Week4Day2Sports.xml
+C:\Users\LisaKilker\Documents\Visual Studio 2012\Projects\Week4Day2Sports\Week4Day2Sports\obj\Debug\Week4Day2Sports.Resources.resources
+C:\Users\LisaKilker\Documents\Visual Studio 2012\Projects\Week4Day2Sports\Week4Day2Sports\obj\Debug\Week4Day2Sports.frmSports.resources
+C:\Users\LisaKilker\Documents\Visual Studio 2012\Projects\Week4Day2Sports\Week4Day2Sports\obj\Debug\Week4Day2Sports.vbproj.GenerateResource.Cache
+C:\Users\LisaKilker\Documents\Visual Studio 2012\Projects\Week4Day2Sports\Week4Day2Sports\obj\Debug\Week4Day2Sports.exe
+C:\Users\LisaKilker\Documents\Visual Studio 2012\Projects\Week4Day2Sports\Week4Day2Sports\obj\Debug\Week4Day2Sports.xml
+C:\Users\LisaKilker\Documents\Visual Studio 2012\Projects\Week4Day2Sports\Week4Day2Sports\obj\Debug\Week4Day2Sports.pdb
